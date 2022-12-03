@@ -1,15 +1,31 @@
 <!DOCTYPE html>
 <html>
 
+<head>
+
+
 <title>trailer of harry potter </title>
-<h1>hello welcome to trailer</h1>
 
+<<<<<<< HEAD
+</head>
+=======
 <a href="mywebsite.html">link to go back to website clik here</a>
+>>>>>>> 769fd23194f065fbee3b2f7cdf94c5b7675d5ab2
+
+<body>
+
+<h1>hello welcome</h1>
+
+</body>
+
+
+
+<<<<<<< HEAD
 
 
 
 
+=======
 
-
-
+>>>>>>> 769fd23194f065fbee3b2f7cdf94c5b7675d5ab2
 </html>
